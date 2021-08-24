@@ -1,0 +1,74 @@
+[
+  {
+    "name":"Jett",
+    "classification": "Duelist",
+    "ultimate": "Storm of Blades",
+    "weapon": "Knifes"
+  },
+  {
+    "name":"Skye",
+    "classification": "Assaulter",
+    "ultimate": "Flock",
+    "weapon": "Animals"
+  },
+  {
+    "name":"Cypher",
+    "classification": "Specialist",
+    "ultimate": "Neuro-Hack",
+    "weapon": "Hat"
+  },
+  {
+    "name":"Raze",
+    "classification": "Duelist",
+    "ultimate": "Big Boom",
+    "weapon": "Bazooka"
+  },
+  {
+    "name":"Jett",
+    "classification": "Duelist",
+    "ultimate": "Storm of Blades",
+    "weapon": "Knifes"
+  },
+  {
+    "name":"Skye",
+    "classification": "Assaulter",
+    "ultimate": "Flock",
+    "weapon": "Animals"
+  },
+  {
+    "name":"Cypher",
+    "classification": "Specialist",
+    "ultimate": "Neuro-Hack",
+    "weapon": "Hat"
+  },
+  {
+    "name":"Raze",
+    "classification": "Duelist",
+    "ultimate": "Big Boom",
+    "weapon": "Bazooka"
+  },
+  {
+    "name":"Jett",
+    "classification": "Duelist",
+    "ultimate": "Storm of Blades",
+    "weapon": "Knifes"
+  },
+  {
+    "name":"Skye",
+    "classification": "Assaulter",
+    "ultimate": "Flock",
+    "weapon": "Animals"
+  },
+  {
+    "name":"Cypher",
+    "classification": "Specialist",
+    "ultimate": "Neuro-Hack",
+    "weapon": "Hat"
+  },
+  {
+    "name":"Raze",
+    "classification": "Duelist",
+    "ultimate": "Big Boom",
+    "weapon": "Bazooka"
+  }
+]
